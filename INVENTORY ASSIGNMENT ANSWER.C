@@ -71,22 +71,22 @@ gotoxy(1,2);		printf("Time:%d:%2d",current_time.ti_hour,
 			/*printf("the line below shows the window the main menu will be");*/
 
 
-gotoxy(23,7);           printf("รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยป");
-gotoxy(23,8);	        printf("ยบ                                     ยบ");
-gotoxy(23,9);	        printf("รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยน");
-gotoxy(23,10);         	printf("ยบ                                     ยบ");
-gotoxy(23,11);		printf("ยบ                                     ยบ");
-gotoxy(23,12);		printf("ยบ                                     ยบ");
-gotoxy(23,13);		printf("ยบ                                     ยบ");
-gotoxy(23,14);		printf("ยบ                                     ยบ");
-gotoxy(23,15);		printf("ยบ                                     ยบ");
-gotoxy(23,16);		printf("ยบ                                     ยบ");
-gotoxy(23,17);		printf("ยบ                                     ยบ");
-gotoxy(23,18);		printf("ยบ                                     ยบ");
-gotoxy(23,19);		printf("ยบ                                     ยบ");
-gotoxy(23,20);		printf("ยบ                                     ยบ");
-gotoxy(23,21);		printf("ยบ                                     ยบ");
-gotoxy(23,22);		printf("รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยผ");
+gotoxy(23,7);           printf("ษอออออออออออออออออออออออออออออออออออออป");
+gotoxy(23,8);	        printf("บ                                     บ");
+gotoxy(23,9);	        printf("ฬอออออออออออออออออออออออออออออออออออออน");
+gotoxy(23,10);         	printf("บ                                     บ");
+gotoxy(23,11);		printf("บ                                     บ");
+gotoxy(23,12);		printf("บ                                     บ");
+gotoxy(23,13);		printf("บ                                     บ");
+gotoxy(23,14);		printf("บ                                     บ");
+gotoxy(23,15);		printf("บ                                     บ");
+gotoxy(23,16);		printf("บ                                     บ");
+gotoxy(23,17);		printf("บ                                     บ");
+gotoxy(23,18);		printf("บ                                     บ");
+gotoxy(23,19);		printf("บ                                     บ");
+gotoxy(23,20);		printf("บ                                     บ");
+gotoxy(23,21);		printf("บ                                     บ");
+gotoxy(23,22);		printf("ศอออออออออออออออออออออออออออออออออออออผ");
 
 
 /*printf("below are the choice selection in the main menu");*/
@@ -288,22 +288,22 @@ void menu()
 	clrscr();    /*printf("the box below is the window for report menu");*/
 	do{
 
-gotoxy(16,5);	printf("รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยฟ");
-gotoxy(16,6);	printf("ยณ                                                       ยณ");
-gotoxy(16,7);	printf("ยณ                                                       ยณ");
-gotoxy(16,8);	printf("ยณ                                                       ยณ");
-gotoxy(16,9);	printf("ยณ                                                       ยณ");
-gotoxy(16,10);	printf("ยณ                                                       ยณ");
-gotoxy(16,11);	printf("ยณ                                                       ยณ");
-gotoxy(16,12);	printf("ยณ                                                       ยณ");
-gotoxy(16,13);	printf("ยณ                                                       ยณ");
-gotoxy(16,14);	printf("ยณ                                                       ยณ");
-gotoxy(16,15);	printf("ยณ                                                       ยณ");
-gotoxy(16,16);  printf("ยณ                                                       ยณ");
-gotoxy(16,17);  printf("ยณ                                                       ยณ");
-gotoxy(16,18);  printf("ยณ                                                       ยณ");
-gotoxy(16,19);	printf("ยณ                                                       ยณ");
-gotoxy(16,20);	printf("ร€รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรร");
+gotoxy(16,5);	printf("ฺฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฟ");
+gotoxy(16,6);	printf("ณ                                                       ณ");
+gotoxy(16,7);	printf("ณ                                                       ณ");
+gotoxy(16,8);	printf("ณ                                                       ณ");
+gotoxy(16,9);	printf("ณ                                                       ณ");
+gotoxy(16,10);	printf("ณ                                                       ณ");
+gotoxy(16,11);	printf("ณ                                                       ณ");
+gotoxy(16,12);	printf("ณ                                                       ณ");
+gotoxy(16,13);	printf("ณ                                                       ณ");
+gotoxy(16,14);	printf("ณ                                                       ณ");
+gotoxy(16,15);	printf("ณ                                                       ณ");
+gotoxy(16,16);  printf("ณ                                                       ณ");
+gotoxy(16,17);  printf("ณ                                                       ณ");
+gotoxy(16,18);  printf("ณ                                                       ณ");
+gotoxy(16,19);	printf("ณ                                                       ณ");
+gotoxy(16,20);	printf("ภฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤู");
 
 
 gotoxy(27,7);	 printf("Dynamo Warehouse Inventory System");
