@@ -1,6 +1,6 @@
 # Inventory
-This Strayed Old School assignments ran from old 1.44MB Floppy ... my 1st experience on C Programming
-Below are the requirement for the program
+This Strayed Old School assignments ran from old 1.44MB Floppy ... my 1st experience on C Programming.
+Below are an example of a Com Sci project for a Dip.
 
 Program Specifications
 Objectives
