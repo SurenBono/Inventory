@@ -1,5 +1,6 @@
 # Inventory
-Strayed Old School assignments ...
+This Strayed Old School assignments ran from old 1.44MB Floppy ... my 1st experience on C Programming
+Below are the requirement for the program
 
 Program Specifications
 Objectives
